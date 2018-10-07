@@ -71,4 +71,16 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="v" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="u" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="a" />
+  </action>
 </keymap>
