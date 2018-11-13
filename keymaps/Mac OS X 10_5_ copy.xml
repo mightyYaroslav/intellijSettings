@@ -77,6 +77,12 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="v" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="a" />
+  </action>
+  <action id="StopBackgroundProcesses">
+    <keyboard-shortcut first-keystroke="shift meta alt period" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="u" />
   </action>
