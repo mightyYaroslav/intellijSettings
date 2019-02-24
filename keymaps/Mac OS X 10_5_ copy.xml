@@ -77,6 +77,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="v" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="u" />
   </action>
