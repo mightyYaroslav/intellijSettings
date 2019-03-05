@@ -71,11 +71,18 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="h" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="v" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="meta f3" />
   </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
