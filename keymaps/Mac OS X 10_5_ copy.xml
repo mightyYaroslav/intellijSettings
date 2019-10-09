@@ -73,16 +73,19 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IntroduceField" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift meta alt t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
