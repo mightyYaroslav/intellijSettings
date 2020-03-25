@@ -63,5 +63,19 @@
       <path value="Default with Alt+Cmd Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="GotoPreviousError" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoNextError" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
