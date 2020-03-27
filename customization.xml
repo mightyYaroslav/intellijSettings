@@ -1,5 +1,17 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
@@ -61,6 +73,41 @@
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger Step Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoPreviousError" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoNextError" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JavaScript.Debugger.ToggleExceptionBreakpoint" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
