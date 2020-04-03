@@ -82,6 +82,13 @@
       <path value="Debugger Step Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ActivateMessagesToolWindow" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="GotoPreviousError" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
