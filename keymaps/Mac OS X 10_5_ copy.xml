@@ -120,6 +120,12 @@
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="f3" />
