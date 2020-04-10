@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Response.ts" />
+    <option name="FILE_MASK" value="*Controller.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -17,5 +19,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*Response.ts</mask>
+    <mask>*Controller.ts</mask>
   </component>
 </application>
