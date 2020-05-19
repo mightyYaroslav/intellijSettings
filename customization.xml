@@ -1,0 +1,163 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Terminal.OpenInTerminal" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsages" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SelectInProjectView" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoPreviousError" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoImplementation" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoDeclaration" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger Step Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GotoNextError" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalJavaDoc" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SelectInProjectView" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JavaScript.Debugger.ToggleExceptionBreakpoint" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger with Alt Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Terminal.OpenInTerminal" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HideAllWindows" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Ctrl Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
