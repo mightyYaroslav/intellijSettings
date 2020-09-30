@@ -76,12 +76,5 @@
       <option name="showLibraryStackFrames" value="false" />
     </data-views>
     <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration watchReturnValues="true">
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>

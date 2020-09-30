@@ -1,6 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern="bowerrc" type="JSON" />
+      <removed_mapping pattern=".stylelintrc" type="JSON" />
+      <removed_mapping pattern=".babelrc" type="JSON" />
+      <removed_mapping pattern=".eslintrc" type="JSON" />
+      <removed_mapping pattern="jest.config" type="JSON" />
+      <removed_mapping ext="jsb3" type="JSON" />
+      <removed_mapping ext="jsb2" type="JSON" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
@@ -8,6 +15,14 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
