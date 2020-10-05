@@ -6,8 +6,8 @@
       <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern="jest.config" type="JSON" />
       <mapping pattern=".babelrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
       <mapping ext="jsb2" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
