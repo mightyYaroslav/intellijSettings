@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <GoCodeStyleSettings>
-    <option name="WRAP_COMP_LIT" value="1" />
+    <option name="WRAP_COMP_LIT" value="5" />
     <option name="WRAP_FUNC_PARAMS" value="5" />
     <option name="WRAP_FUNC_RESULT" value="5" />
   </GoCodeStyleSettings>
@@ -10,6 +10,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="go">
-    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
   </codeStyleSettings>
 </code_scheme>
