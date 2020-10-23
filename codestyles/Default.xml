@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="IMPORT_SORTING" value="GOIMPORTS" />
     <option name="WRAP_COMP_LIT" value="5" />
     <option name="WRAP_FUNC_PARAMS" value="5" />
     <option name="WRAP_FUNC_RESULT" value="5" />
