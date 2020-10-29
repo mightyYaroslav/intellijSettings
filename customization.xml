@@ -97,14 +97,7 @@
       <path value="Default with Alt+Cmd Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="JavaScript.Debugger.ToggleExceptionBreakpoint" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Debugger" />
-      <path value="Debugger with Alt Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="2">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Debugger" />
