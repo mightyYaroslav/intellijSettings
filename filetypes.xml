@@ -13,6 +13,7 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
