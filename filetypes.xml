@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-buf" type="Dockerfile" />
       <mapping pattern="Dockerfile-temp" type="Dockerfile" />
       <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
       <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
