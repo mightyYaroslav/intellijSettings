@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".local-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.rc" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
@@ -10,6 +11,8 @@
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern=".local.rc" type="PLAIN_TEXT" />
+      <mapping pattern=".local.env-cmdrc" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-auth" type="Dockerfile" />
