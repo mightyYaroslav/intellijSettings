@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-buf" type="Dockerfile" />
+      <mapping pattern="Dockerfile-temp" type="Dockerfile" />
+      <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
+      <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
+      <mapping pattern="Dockerfile-auth" type="Dockerfile" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-auth" type="Dockerfile" />
-      <mapping pattern="Dockerfile-buf" type="Dockerfile" />
-      <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
-      <mapping pattern="Dockerfile-temp" type="Dockerfile" />
-      <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
