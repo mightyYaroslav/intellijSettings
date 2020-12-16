@@ -3,5 +3,6 @@
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
