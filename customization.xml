@@ -6,12 +6,6 @@
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Terminal.OpenInTerminal" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
@@ -110,12 +104,6 @@
       <path value="Debugger with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowBookmarks" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="VcsShowPrevChangeMarker" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -130,6 +118,12 @@
       <path value="Default with Alt+Cmd Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="VcsShowNextChangeMarker" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
@@ -137,19 +131,19 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="HideAllWindows" is_action="true" action_type="1" position="5">
+    <group value="HideAllWindows" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="6">
+    <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="osmedile.intellij.stringmanip.PopupChoiceAction" is_action="true" action_type="1" position="7">
+    <group value="osmedile.intellij.stringmanip.PopupChoiceAction" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
