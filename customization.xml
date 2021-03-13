@@ -118,7 +118,7 @@
       <path value="Default with Alt+Cmd Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowBookmarks" is_action="true" action_type="1" position="4">
+    <group value="HideAllWindows" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -131,7 +131,7 @@
       <path value="Default with Ctrl Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="HideAllWindows" is_action="true" action_type="1" position="6">
+    <group value="ShowBookmarks" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
