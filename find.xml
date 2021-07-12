@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="returns-portal-client*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -20,5 +21,9 @@
     <mask>*Response.ts</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
+    <mask>ratings-app*</mask>
+    <mask>location-finder-app*</mask>
+    <mask>returns-portal-admin*</mask>
+    <mask>returns-portal-client*</mask>
   </component>
 </application>
