@@ -21,8 +21,8 @@
     <mask>*Response.ts</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
-    <mask>ratings-app*</mask>
     <mask>location-finder-app*</mask>
+    <mask>ratings-app*</mask>
     <mask>returns-portal-admin*</mask>
     <mask>returns-portal-client*</mask>
   </component>
