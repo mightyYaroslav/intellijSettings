@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="recreate-no-ready-certs.py" type="AUTO_DETECTED" />
+      <mapping pattern="bearer-token_b64" type="AUTO_DETECTED" />
+      <mapping pattern="bearer-token" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-buf" type="Dockerfile" />
       <mapping pattern="Dockerfile-temp" type="Dockerfile" />
       <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
