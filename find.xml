@@ -23,5 +23,6 @@
     <mask>returns-portal-admin*</mask>
     <mask>returns-portal-client*</mask>
     <mask>staging</mask>
+    <mask>templates/prom</mask>
   </component>
 </application>
