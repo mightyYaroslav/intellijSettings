@@ -1,25 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="recreate-no-ready-certs.py" type="AUTO_DETECTED" />
-      <mapping pattern="bearer-token_b64" type="AUTO_DETECTED" />
-      <mapping pattern="bearer-token" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile-buf" type="Dockerfile" />
-      <mapping pattern="Dockerfile-temp" type="Dockerfile" />
-      <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
-      <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
-      <mapping pattern="Dockerfile-auth" type="Dockerfile" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="easy_install" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="easy_install" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="compose" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping pattern="Dockerfile-auth" type="Dockerfile" />
+      <mapping pattern="Dockerfile-buf" type="Dockerfile" />
+      <mapping pattern="Dockerfile-envoy" type="Dockerfile" />
+      <mapping pattern="Dockerfile-temp" type="Dockerfile" />
+      <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
