@@ -109,6 +109,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
