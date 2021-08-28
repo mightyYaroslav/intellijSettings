@@ -26,5 +26,6 @@
     <mask>templates/prom</mask>
     <mask>lambda-config.js.tpl</mask>
     <mask>*.js.tpl</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
