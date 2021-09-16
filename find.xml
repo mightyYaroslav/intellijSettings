@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -24,5 +26,8 @@
     <mask>returns-portal-client*</mask>
     <mask>staging</mask>
     <mask>templates/prom</mask>
+    <mask>lambda-config.js.tpl</mask>
+    <mask>*.js.tpl</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>

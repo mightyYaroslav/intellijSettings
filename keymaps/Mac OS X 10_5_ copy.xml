@@ -50,6 +50,7 @@
   <action id="Diff.ApplyRightSide">
     <keyboard-shortcut first-keystroke="ctrl meta alt left" />
   </action>
+  <action id="Diff.FocusOppositePane" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
   </action>
@@ -104,15 +105,22 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
-  <action id="NextProjectWindow" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
   <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt close_bracket" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
+  </action>
   <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt open_bracket" />
   </action>
   <action id="ReopenClosedTab">
@@ -132,6 +140,15 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="v" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic">
