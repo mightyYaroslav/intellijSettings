@@ -163,13 +163,6 @@
       <option name="JSP" value="false" />
     </context>
   </template>
-  <template name="$b" value="$scope.$broadcast('$eventName$', $eventArgs$);&#10;$END$" description="Define a $broadcast for a $scope inside an Angular Controller / Angular Controller Function. You can change the event name and optional event arguments." toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JSP" value="false" />
-    </context>
-  </template>
   <template name="$e" value="$scope.$emit('$eventName$', $eventArgs$);&#10;$END$" description="Define an $emit for a $scope inside an Angular Controller / Angular Controller Function. You can change the event name and optional event arguments." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
