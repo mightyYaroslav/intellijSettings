@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile-auth" type="Dockerfile" />
       <mapping pattern="Dockerfile-buf" type="Dockerfile" />
       <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />

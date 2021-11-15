@@ -27,5 +27,6 @@
     <mask>*.js.tpl</mask>
     <mask>*.spec.ts</mask>
     <mask>*.js</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
