@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -16,7 +14,6 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.js</mask>
     <mask>*Response.ts</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
@@ -29,5 +26,7 @@
     <mask>lambda-config.js.tpl</mask>
     <mask>*.js.tpl</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
