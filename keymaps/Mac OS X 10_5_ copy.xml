@@ -113,7 +113,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
@@ -128,6 +127,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -149,6 +151,9 @@
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+  <action id="SwitcherIterateItems">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="TerminalSplitActionBase$Horizontal">
     <keyboard-shortcut first-keystroke="shift meta d" />
