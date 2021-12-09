@@ -17,6 +17,7 @@
     <mask>*.js.tpl</mask>
     <mask>*.spec.ts</mask>
     <mask>*.graphql</mask>
+    <mask>*Input*</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -28,6 +29,5 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*Input*</mask>
   </component>
 </application>
