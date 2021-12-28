@@ -7,6 +7,7 @@
       <mapping pattern="Dockerfile-buf" type="Dockerfile" />
       <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
