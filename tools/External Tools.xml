@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="npx" />
       <option name="PARAMETERS" value="tsc -p apps/backend/tsconfig.json" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/WebstormProjects/nomad/nomad-dubai" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/WebstormProjects/nomad/nomad-paris" />
     </exec>
   </tool>
   <tool name="tsc (local)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
