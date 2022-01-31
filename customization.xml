@@ -1,0 +1,63 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Shift Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Debugger" />
+      <path value="Debugger Step Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeSignature" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Shift Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HideAllWindows" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HideAllWindows" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PreviousTab" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NextTab" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
