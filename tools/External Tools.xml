@@ -13,7 +13,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="tsc-paris" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="tsc-paris" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="npx" />
       <option name="PARAMETERS" value="tsc -p apps/backend/tsconfig.json" />
@@ -27,7 +27,7 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/WebstormProjects/nomad/nomad-dubai" />
     </exec>
   </tool>
-  <tool name="tsc-dubai" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="tsc-dubai" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="npx" />
       <option name="PARAMETERS" value="tsc -p apps/backend/tsconfig.json" />
