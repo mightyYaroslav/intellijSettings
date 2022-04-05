@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Entity.ts" />
     <mask>*.ng</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
@@ -29,5 +30,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*Response.ts</mask>
+    <mask>*Entity.ts</mask>
   </component>
 </application>
