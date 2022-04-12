@@ -15,4 +15,10 @@
       <option name="JS_CLASS" value="false" />
     </context>
   </template>
+  <template name="grow" value="getOrThrow(() =&gt; $SELECTION$, '$ITEM$ not found')" description="getOrThrow on selected function" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
