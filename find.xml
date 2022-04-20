@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.ng</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
@@ -25,10 +26,10 @@
     <mask>*.sht</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*Response.ts</mask>
     <mask>*Entity.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
