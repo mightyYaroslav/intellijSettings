@@ -16,6 +16,11 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
   </JSCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="4" />
+    <option name="SUBQUERY_CLOSING" value="3" />
+  </SqlCodeStyleSettings>
   <yaml>
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
   </yaml>
