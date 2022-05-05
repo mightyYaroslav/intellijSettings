@@ -9,5 +9,8 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
     </driver>
+    <driver id="snowflake">
+      <artifact id="Snowflake" name="Snowflake" use="true" version="3.13.10" />
+    </driver>
   </component>
 </application>
