@@ -6,6 +6,8 @@
       <mapping pattern="Dockerfile-auth" type="Dockerfile" />
       <mapping pattern="Dockerfile-buf" type="Dockerfile" />
       <mapping pattern="Dockerfile-ubuntu" type="Dockerfile" />
+      <mapping pattern="Dockerfile.old" type="Dockerfile" />
+      <mapping ext="old" type="Dockerfile" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="easy_install" type="PLAIN_TEXT" />
