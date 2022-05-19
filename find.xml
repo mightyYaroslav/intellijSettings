@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ng</mask>
     <mask>*Input.ts</mask>
     <mask>*Controller.ts</mask>
@@ -30,5 +30,8 @@
     <mask>*Response.ts</mask>
     <mask>*Entity.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.cql</mask>
+    <mask>*.ddl</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
