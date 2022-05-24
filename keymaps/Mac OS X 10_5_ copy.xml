@@ -119,6 +119,9 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="MarkRootGroup">
+    <keyboard-shortcut first-keystroke="alt dead_grave" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
