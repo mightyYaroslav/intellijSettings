@@ -20,6 +20,7 @@
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="compose" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
