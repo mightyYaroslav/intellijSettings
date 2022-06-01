@@ -44,12 +44,6 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="Diff.ApplyLeftSide">
-    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
-  </action>
-  <action id="Diff.ApplyRightSide">
-    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
-  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
