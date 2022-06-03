@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Breakpoint hit" shouldLog="false" playSound="true" />
-  </component>
-</application>
