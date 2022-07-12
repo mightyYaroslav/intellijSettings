@@ -1,18 +1,37 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.ng</mask>
+    <mask>*Input.ts</mask>
+    <mask>*Controller.ts</mask>
+    <mask>location-finder-app*</mask>
+    <mask>ratings-app*</mask>
+    <mask>returns-portal-admin*</mask>
+    <mask>returns-portal-client*</mask>
+    <mask>staging</mask>
+    <mask>templates/prom</mask>
+    <mask>lambda-config.js.tpl</mask>
+    <mask>*.js.tpl</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.graphql</mask>
+    <mask>*Input*</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
-    <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
     <mask>*.html</mask>
-    <mask>*.mts</mask>
-    <mask>*.cts</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*Response.ts</mask>
+    <mask>*Entity.ts</mask>
+    <mask>*.ts</mask>
+    <mask>*.cql</mask>
+    <mask>*.ddl</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

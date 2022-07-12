@@ -1,0 +1,16 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.13" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
+    </driver>
+    <driver id="snowflake">
+      <artifact id="Snowflake" name="Snowflake" use="true" version="3.13.10" />
+    </driver>
+  </component>
+</application>

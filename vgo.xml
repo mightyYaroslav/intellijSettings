@@ -1,0 +1,15 @@
+<application>
+  <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPRIVATE">
+          <value>
+            <list>
+              <option value="github.com/9count" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
+  </component>
+</application>
